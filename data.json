@@ -1,0 +1,32 @@
+[
+  {
+    "name": "abc",
+    "email": "abc@gmail.com",
+    "password": "dksdfjdkskdf",
+    "createdAt": "2025-11-25T11:43:02.681Z"
+  },
+  {
+    "name": "abddd",
+    "email": "abc@gmail.com",
+    "password": "dksdfjdkskdf",
+    "createdAt": "2025-11-25T11:45:03.077Z"
+  },
+  {
+    "name": "abddd",
+    "email": "abc@gmail.com",
+    "password": "dksdfjdkskdf",
+    "createdAt": "2025-11-25T11:49:26.975Z"
+  },
+  {
+    "name": "abddd",
+    "email": "abc@gmail.com",
+    "password": "dksdfjdkskdf",
+    "createdAt": "2025-11-25T11:49:29.668Z"
+  },
+  {
+    "name": "abddd",
+    "email": "abc@gmail.com",
+    "password": "Adff@4422",
+    "createdAt": "2025-11-25T11:53:48.410Z"
+  }
+]
